@@ -8,19 +8,15 @@ import Footer from './components/footer/Footer'
 
 const App = () => {
   return (
-    <>
-    <div className=' bg-red-200'> App
+<div className='  bg-secondary'>
     
-    
-    
-    </div>
     <Headers/>
     <Nav/>
     <About/>
     <Experience/>
    <Contact/>
    <Footer/>
-    </>
+    </div>
   )
 }
 
