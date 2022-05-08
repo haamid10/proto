@@ -8,7 +8,7 @@ import HeaderSocials from "./HeaderSocials"
 
 const Header = () => {
   return (
-    <div className="   ">
+    <div id="home" className="   ">
      
 <div className="flex flex-col items-center"> 
       <div className="">
@@ -21,7 +21,7 @@ const Header = () => {
 
       <HeaderSocials/>
       </div>
-      <div className=" flex flex-col items-center bg-gradient-to-b from-primary to-transparent mt-48  h-84 rounded-t-full  absolute   w-fit  ">
+      <div className=" flex flex-col items-center bg-gradient-to-b from-primary to-transparent mt-48  h-84 rounded-t-full  absolute   w-fit absolute ">
       
         <img className="h-76 w-48 "  src={Sawir} alt="me"/>
       </div>

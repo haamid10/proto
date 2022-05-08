@@ -2,7 +2,7 @@
 
 const Experience = () => {
   return (
-    <div>Experience</div>
+    <div  id="expereince" className="w-full h-screen">Experience</div>
   )
 }
 
