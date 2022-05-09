@@ -21,7 +21,7 @@ const Header = () => {
 
       <HeaderSocials/>
       </div>
-      <div className=" flex flex-col items-center bg-gradient-to-b from-primary to-transparent mt-48  h-84 rounded-t-full  absolute   w-fit absolute ">
+      <div className=" flex flex-col items-center bg-gradient-to-b from-primary to-transparent mt-48  h-84 rounded-t-full  absolute   w-fit  ">
       
         <img className="h-76 w-48 "  src={Sawir} alt="me"/>
       </div>
