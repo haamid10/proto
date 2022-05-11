@@ -10,20 +10,20 @@ const Header = () => {
   return (
     <div id="home" className="   ">
      
-<div className="flex flex-col items-center"> 
-      <div className="">
-        <h5 className="  p-2 text-white font-Poppins font-bold ml-12 ">Hello I'm </h5>
-        <h1 className="text-4xl font-Poppins font-bold text-white mt-2">Hameed Apdi</h1>
-        <h6 className="  text-light font-Poppins ml-12 mt-2 mb-2"> MernStack Developer</h6>
+<div className="r"> 
+      <div className="flex flex-col items-center">
+        <h5 className="  p-2 text-white font-Poppins font-bold ml-12 text-2xl">Hello I'm </h5>
+        <h1 className="  text-6xl m-2 font-Poppins font-bold text-white mt-2">Hameed Apdi</h1>
+        <h6 className="  text-light font-Poppins text-xl ml-12 mt-2 mb-2"> MernStack Developer</h6>
       </div>
       <CTA/>
       <div>
 
       <HeaderSocials/>
       </div>
-      <div className=" flex flex-col items-center bg-gradient-to-b from-primary to-transparent mt-48  h-84 rounded-t-full  absolute   w-fit  ">
+      <div className="ml-96 bg-gradient-to-b from-primary to-transparent flex flex-col justify-center items-center  h-84 rounded-t-full  mt-12  w-fit  ">
       
-        <img className="h-76 w-48 "  src={Sawir} alt="me"/>
+        <img className="h-76 w-48  ml-96"  src={Sawir} alt="me"/>
       </div>
       <a href="#contact">Scroll</a>
       </div>
