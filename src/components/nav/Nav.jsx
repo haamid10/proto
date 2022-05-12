@@ -15,7 +15,7 @@ const Nav = () => {
       <a  className=' bg-transparent'  href='#about'> <UserIcon  className=" text-light w-6 h-16"/> </a>
       <a   className=' bg-transparent'  href='#expereince'> <BookOpenIcon  className="  text-light w-6 h-16"/> </a>
       <a  className='text-light bg-transparent'   href='#footer'> <CogIcon  className=" w-6 h-16"/> </a>
-      <a   className=' bg-transparent'  href='#contact'> <InboxInIcon  className="text-light   w-6 h-16"/> </a>
+      <a   className=' bg-transparent'  href='#contact'> <InboxInIcon  className="text-light   w-6 h-16 hover:bg-secondary  py-3 px-2 "/> </a>
       </div>
       
     
