@@ -21,9 +21,9 @@ const Header = () => {
 
       <HeaderSocials/>
       </div>
-      <div className="ml-96 bg-gradient-to-b from-primary to-transparent flex flex-col justify-center items-center  h-84 rounded-t-full  mt-12  w-fit  ">
+      <div className=" m-96 bg-gradient-to-b from-primary to-transparent  h-96 rounded-t-full  mt-12  w-fit  ">
       
-        <img className="h-76 w-48  ml-96"  src={Sawir} alt="me"/>
+        <img className="h-96 w-fit  ml-96"  src={Sawir} alt="me"/>
       </div>
       <a href="#contact">Scroll</a>
       </div>
